@@ -2,7 +2,7 @@ package com.example.Bean;
 
 public class Entity {
 
-	Long Id;
+	Long Id; // New comment has been added to verify whether GIT is working or not
 	String Name;
 	String Password;
 	 
